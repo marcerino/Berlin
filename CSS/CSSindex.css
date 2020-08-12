@@ -1,0 +1,54 @@
+body {
+	background-color: lightgreen;
+	background-image: url(IMG_0035.jpg);
+	background-size: 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-image-opacity: 5%;
+}
+header {
+	margin: 0px;
+}
+main h1{
+	font-family:Sans-serif;
+	text-align: center;
+	font-size: 195px;
+	color: black;
+	float: left;
+	margin: 0px; 
+	padding: 0px;
+
+}
+main img {
+	margin: 10% ;
+	width: 80%;
+	height: auto;
+}
+.nav {
+	background-color: lightgreen;
+	overflow: hidden;
+	width: 100%;
+	height: auto;
+	margin-top: 0px; 
+}
+.Text p {
+
+}
+div p {
+		text-align: center;
+	font-size: 80px;
+	display: block;
+	border: none;	
+	padding: 0px;
+	margin: 0px;
+	color: white;
+	font-family: sans-serif;
+}
+div a {
+	text-align: center;
+	font-size: 35px;
+	color: white;
+	font-family: sans-serif;
+	padding: 30px;
+ 	margin-left: 10%; 	
+}
